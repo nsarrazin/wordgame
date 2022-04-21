@@ -1,0 +1,5 @@
+/wordgame_backend/static
+/wordgame_backend/*.bin
+/wordgame_backend/wordlist.txt
+/wordgame_frontend/public/word2vec/
+*.log

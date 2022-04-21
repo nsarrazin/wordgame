@@ -1,0 +1,15 @@
+
+.simple-keyboard {
+  max-width: 850px;
+  width:"100%"
+}
+
+
+.simple-keyboard .hg-button {
+    transition: all 0.1s ease-in-out;
+  }
+  
+  .simple-keyboard .hg-button:hover {
+    transform: scale(1.3);
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "users" : {
+        "userID" : {
+            "name" : "prout",
+            "challenges" : ["challengeA", "challengeB", "challengeC"],
+            "solves" : ["solveID1", "solveID2"],
+            "streak" : 0
+        }
+    },
+    "challenges" : {
+        "challengeID1" : {
+            "word" : "$WORD"
+        },
+        "challengeID2" : {
+            "word" : "$WORD"
+        }
+    },
+    "attempts" : {
+        "solveID1" : {
+            "word": "$WORD",
+            "guesses" : ["wordA", "wordB", "wordC", "wordD"]
+    }
+}
